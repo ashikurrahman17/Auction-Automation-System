@@ -4,11 +4,9 @@
 
 ## Goal of the Project
 The goal of this project is to develop an Auction Automation System specifically tailored for the CSE Super League. The system aims to streamline player bidding, team formation, and budget management through efficient and user-friendly software. The Prototype Model of Software Development is well-suited for this project because it allows iterative refinement of features based on user feedback, ensuring the system meets the specific needs of organizers, team managers, and participants.
+First I introduced The Prototype Model of SDLC.
+https://github.com/ashikurrahman17/Auction-Automation-System/issues/1#issue-2688045338
 
----
-
-## Introduction to the Prototype Model of SDLC
-The Prototype Model focuses on building an initial version of the system to gather feedback and refine it iteratively. It is particularly effective for projects where requirements are not fully understood at the beginning, as it ensures user involvement and adaptability.
 
 ---
 
