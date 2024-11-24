@@ -1,11 +1,71 @@
-# Prototype Model of Software Development for Auction Automation System for CSE Super League
+<p align="center">
+  <img src="hstu_logo_.png" alt="hstu_logo_.png" width="250" height="300">
+</p>
+<h1 align="center">
+  <b>Auction Automation System For CSE Super League</b>
+</h1>
+<h3 align="center">
+  <br>
+  <b>Level-3 Semester-I Project Report</b>  
+</h3>
+<h3 align="center">
+  Course Code: CSE 305 
+</h3>
+
+<h3 align="center">
+  Course Title: Software Engineering
+</h3>
+<br>
+<h3 align="center">
+  Submitted by 
+</h3>
+<h3 align="center">
+<b>Ashikur Rahman (ID: 2102028) </b> </h3>
+<br>
+
+<h3 align="center">
+  Submitted To 
+</h3>
+
+<h3 align="center"><b>Pankaj Bhowmik  </b></h3>
+<h3 align="center"><b>Lecturer, Department of CSE</b></h3>
+<br>
+<h3 align="center"> <b>Department of Computer Science and Engineering </b></h3>
+<h3 align="center"><b>Hajee Mohammad Danesh Science and Technology University  
+Dinajpur-5200</b></h3>
+<br><br><br>
+
+---
+
+
+
+
+
+## Table of Contents
+1. [Goal of the Project](#goal-of-the-project)  
+2. [Introduction to the Prototype Model of SDLC](#introduction-to-the-prototype-model-of-sdlc)  
+3. [Steps in the Prototype Model Applied to Auction Automation System](#steps-in-the-prototype-model-applied-to-auction-automation-system)  
+   - [1. Identification of Requirements](#1-identification-of-requirements)  
+   - [2. Quick Design and Planning](#2-quick-design-and-planning)  
+   - [3. Create a Throwaway Prototype](#3-create-a-throwaway-prototype)  
+   - [4. User Evaluation](#4-user-evaluation)  
+   - [5. Refinement](#5-refinement)  
+   - [6. Iterative Development](#6-iterative-development)  
+   - [7. Regular User Testing](#7-regular-user-testing)  
+   - [8. Gradual Enhancement](#8-gradual-enhancement)  
+   - [9. Documentation](#9-documentation)  
+   - [10. Integration of Features](#10-integration-of-features)  
+   - [11. Security Considerations](#11-security-considerations)  
+   - [12. Deployment](#12-deployment)  
+4. [Conclusion](#conclusion)  
 
 ---
 
 ## Goal of the Project
 The goal of this project is to develop an Auction Automation System specifically tailored for the CSE Super League. The system aims to streamline player bidding, team formation, and budget management through efficient and user-friendly software. The Prototype Model of Software Development is well-suited for this project because it allows iterative refinement of features based on user feedback, ensuring the system meets the specific needs of organizers, team managers, and participants.
 First I introduced The Prototype Model of SDLC.
-https://github.com/ashikurrahman17/Auction-Automation-System/issues/1#issue-2688045338
+
+![ER](https://github.com/user-attachments/assets/672df64e-5d14-4c5f-a1ac-eb98377c4a2f)
 
 
 ---
